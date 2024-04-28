@@ -1,0 +1,4 @@
+In furutense internships we are going to learn the following things:
+python
+github
+sql
